@@ -6,7 +6,7 @@ const ChatWindow = ({ messages, onSend, loading, messagesEndRef }) => {
   return (
     <div className="chat-container">
       <div className="chat-header">
-        <span className="header-text">AI Assistant</span>
+        <span className="header-text">Jarvis - AI </span>
       </div>
 
       <div className="chat-messages">
